@@ -9,4 +9,4 @@ if ravenue > costs:
 elif ravenue == costs:
     print("Не плохо")
 else:
-    print("Пора закрывать фирму))")
+    print(" Пора закрывать фирму))")
