@@ -10,5 +10,9 @@ def my_money():
 
 my_money()
 
+from sys import argv
 
+time, sal, bonus = argv
+zarpl = time * sal + bonus
+print(f'заработная плата -  {zarpl}')
 
