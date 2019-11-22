@@ -1,5 +1,5 @@
-a = float(input("Старт: "))
-b = float(input("Финиш: "))
+a = float(input(" Старт: "))
+b = float(input(" Финиш: "))
 day = 1
 if a > b:
     print(day)
